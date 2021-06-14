@@ -1,0 +1,69 @@
+{
+  "redirect" : {
+ 
+"json_popup_wait" : "Server Ready",
+  
+"mode_no_ads" : false,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
+
+"Mode Iklan " : "
+mode pengaturan iklan
+Mode 1     Admob backup Startapp
+Mode 2     FAN backup Startapp
+Mode 3     Appodeal backup Startapp
+Mode 4     Unity backup Startapp
+Mode 5     Applovin backup Startapp
+MODE NATIVE HANYA  - 1 - 2 - 3 - 
+",
+
+"pengaturan_iklan_banner" : "1",
+"pengaturan_iklan_inter" : "1",
+"pengaturan_iklan_native" : "1",
+
+"inter_count" : 8,
+
+"enable_strap" : false,
+"enable_strap_Splah" : false,
+
+"ads_on_exit_dialog" : false,
+
+"mode_offline_mp3" : false,
+"enable_sticky_notification" : false,
+
+"startapp" : "205801621",
+
+"admob_banner" : "ca-app-pub-6554653902751702/8392602860",
+"admob_inter" : "",
+"admob_native" : "",
+
+"hpk_alien" : "Business",
+"hpkadmob1" : "Forex",
+"hpkadmob2" : "Broker Forex",
+"hpkadmob3" : "Trading forex",
+"hpkadmob4" : "Gold Trader",
+"hpkadmob5" : "Donation",
+
+"fan_banner" : "YOUR_PLACEMENT_ID",
+"fan_inter" : "YOUR_PLACEMENT_ID",
+"fan_native" : "YOUR_PLACEMENT_ID",
+
+"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
+
+"unity_banner_id" : "banner",
+"unity_inters_id" : "interstitial",
+"unity_id" : 4045251,
+"unity_test" : true,
+
+"applovin_banner_id" : "YOUR_AD_UNIT_ID",
+"applovin_inters_id" : "YOUR_AD_UNIT_ID",
+
+"exit_popup_dialog" : "For our appretiation please give us rating 5 stars :)",
+"rate_button" : "Rate 5 Stars",
+"later_button" : "Rate Later",
+"enable_Share_button" : true,
+"Share_TXT" : "Supperr APPS Download Now",
+"more_button" : "Share Via WhatsApp",
+"url_more_apps" : "https://play.google.com/store/apps/details?id=com.tedikur.cutechickswallpaper"
+
+  }
+}
