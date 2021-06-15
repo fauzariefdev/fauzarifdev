@@ -1,0 +1,551 @@
+{
+   "Iklan":[
+      {
+         "status":"0",
+         "link":"https://play.google.com/store/apps/details?id=",
+         "interid":"ca-app-pub-3940256099942544/1033173712",
+         "nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "openid":"ca-app-pub-3940256099942544/1033173712",
+         "deskripsi_update":"Ini mah hanya contoh saja promosi iklan via json",
+         "link_update":"https://www.google.com/",
+         "interval":1,
+         "pengaturan_iklan":"1",
+         "startappid":"12345678",
+         "version_app":1,
+         "fan_inter":"YOUR_PLACEMENT_ID",
+         "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+         "inmobi_inter":1476878485960,
+         "inmobi_banner":1473189489298,
+         "hpk_admob1":"",
+         "hpk_admob2":"",
+         "hpk_admob3":"",
+         "hpk_admob4":"",
+         "hpk_admob5":""
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "nama_cat":"Birthday Wishes 1",
+         "gambar":"https://fauzarifdeveloper.files.wordpress.com/2021/06/iconbirthdaywishesforfriend.png"
+      },
+      {
+         "id":2,
+         "nama_cat":"Birthday Wishes 2",
+         "gambar":"https://fauzarifdeveloper.files.wordpress.com/2021/06/iconbirthdaywishesforfriend.png"
+      },
+      {
+         "id":3,
+         "nama_cat":"Birthday Wishes 3",
+         "gambar":"https://fauzarifdeveloper.files.wordpress.com/2021/06/iconbirthdaywishesforfriend.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Birthdays come around every year, but friends like you only come once in a lifetime. I'm so glad you came into my life. Best wishes on your special day."
+      },
+      {
+         "id":2,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"I am grateful for your true friendship. Hope your birthday is amazing as you are my best friend!"
+      },
+      {
+         "id":3,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"I promise that the more birthday candles you blow, the more i will be here for you to celebrate every special event in your life. Happy birthday."
+      },
+      {
+         "id":4,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"I hope your birthday is as sweet as the cake. And the year to follow is filled with as much joy as you bring your friends!"
+      },
+      {
+         "id":5,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"I feel so lucky to have you as my friend. Hope your birthday is as special as you are. May all of your dreams come true. Thanks for being such a great friend. Happy birthday for my friend!"
+      },
+      {
+         "id":6,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Happy birthday my dear friend, may the bright colors paint your life and you be happy forever. Stay blessed."
+      },
+      {
+         "id":7,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Another year, another challenge my friend. But, you need to always remember to keep smiling and have a positive outlook on life, and everything is going to be fine. Happy Birthday!"
+      },
+      {
+         "id":8,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Best friends are hard to come by. That’s why on this special day i wanted to let you know just how much your friendship means to me. Happy birthday my friend!"
+      },
+      {
+         "id":9,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"To the best friend i have ever known, here’s wishing you a joy-filled birthday with memories galore!"
+      },
+      {
+         "id":10,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Never think you are alone, i am always there for all your fixes. Happy birthday."
+      },
+      {
+         "id":11,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"I wish you love, hope and everlasting joy and happiness. Thank you for being my best friend!"
+      },
+      {
+         "id":12,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Happy birthday to one of the nicest people i have ever met. May this year be even more wonderful and blessed."
+      },
+      {
+         "id":13,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Happy birthday to my amazing, beautiful, and fabulous best friend."
+      },
+      {
+         "id":14,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"The best gift is the gift of friendship. So, that is what i got you for your birthday! Don't worry… i got you a real present too."
+      },
+      {
+         "id":15,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"I am looking forward to many more years of friendship and birthdays with you. Have a fantastic birthday!"
+      },
+      {
+         "id":16,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"When nothing goes right, i go to you. You're my go-to person at every hour. Happy birthday."
+      },
+      {
+         "id":17,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Here’s wishing you a birthday filled with blessings: the gold at the end of the rainbow, many four-leafed clovers, and the love of a good family. Happy birthday!"
+      },
+      {
+         "id":18,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"For many people, the word friend is just a sequence of letters. For me, it is the source of happiness and strength because of you. Happy Birthday, buddy!"
+      },
+      {
+         "id":19,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"I didn’t know it at the time, but the day you were born would be one of the best days of my life! Happy Birthday to my best friend!"
+      },
+      {
+         "id":20,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"May the joy that you have spread in the past come back to you on this day. Wishing you a very happy birthday!"
+      },
+      {
+         "id":21,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Happiest birthday to my best friend. You deserve all the wonderful things that you have right now. You are the purest soul, and you have the biggest heart. I love you."
+      },
+      {
+         "id":22,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Happy birthday. May each an every moment of your special day be filled with the same joy and happiness you bring to others."
+      },
+      {
+         "id":23,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"I want to wish you all the love and happiness in the world, all of which you deserve. Happy birthday my friend!"
+      },
+      {
+         "id":24,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Happy birthday to the dearest friend who has been always by my side! Your friendship keeps me strong and moving up in life!"
+      },
+      {
+         "id":25,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"You've always been great at sharing and caring. On this birthday, may you be blessed tenfold with the love that you have given unselfishly to others."
+      },
+      {
+         "id":26,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Have a very amazing birthday! Enjoy all the cakes, hugs, love and happiness today. You deserve it, my friend. All the best for you!"
+      },
+      {
+         "id":27,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"All laughs and tears we share make me feel awesome. I am so thankful for our true friendship. Hope your day is always amazing as you are. Happy birthday dear amigo!"
+      },
+      {
+         "id":28,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Well, I tried to find the right words to show you how I feel about our friendship. I only thought one word: awesome. To me, you’re very awesome, more special than anyone else in my life. Happy birthday to you! May every moment of your life be as wonderful as our friendship."
+      },
+      {
+         "id":29,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"I am so grateful to have you as my friend. You’re such a great friend. Hope your birthday is as special as you are. Happy birthday, my dearest friend!"
+      },
+      {
+         "id":30,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Be Happy. be Awesome. May peace be upon you. Happy Birthday!"
+      },
+      {
+         "id":31,
+         "nama_cat":"Birthday Wishes 1",
+         "deskripsi":"Happy birthday for you the nice person in the world. I hope you always happy and all your dream will come true."
+      },
+      {
+         "id":32,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Happy Birthday. I don t know if I could ever convey to you how much you mean to me. I can't imagine where I would be right now without you. Hopefully a long and healthy always, my friend."
+      },
+      {
+         "id":33,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"A special friend like you deserves all the wonderful blessings not only today, but every day! Happy birthday! May all your wishes come true."
+      },
+      {
+         "id":34,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Having a friend like you make my life so much more. You always helped me through difficult times. That is why today, in your special day, I hope you always healthy and remain a cool friend to me and other friends."
+      },
+      {
+         "id":35,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"I feel so lucky to have you as my friend. Hope your birthday is as special as you are.May all of your dreams come true. Thanks for being such a great friend. Happy birthday!"
+      },
+      {
+         "id":36,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"I am looking forward to many more years of friendship and birthdays with you. Have a fantastic birthday!"
+      },
+      {
+         "id":37,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"I want to wish you all the love and happiness in the world, all of which you deserve. Happy birthday my friend!"
+      },
+      {
+         "id":38,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"I am grateful that you are a part of my life. All the best on your birthday!"
+      },
+      {
+         "id":39,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"In good times and bad, I’ll always be by your side. Happy birthday friend!"
+      },
+      {
+         "id":40,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Happy, happy birthday! You deserve all the cakes, love, hugs and happiness today. Enjoy your day my friend!"
+      },
+      {
+         "id":41,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"May God shower you with blessings today and always. Happy birthday wishes for my friend!"
+      },
+      {
+         "id":42,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Happy, healthy, exceptional, rocking birthday to you my friend!"
+      },
+      {
+         "id":43,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Every step of the way you were there for me. Through thick and thin I’ll always be there for you. Happy birthday wishes!"
+      },
+      {
+         "id":44,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Thanks for another year of being an awesome friend. Happy birthday dear friend!"
+      },
+      {
+         "id":45,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"You understand me like nobody else. I have a sibling in you my friend. Happy birthday to my best friend!"
+      },
+      {
+         "id":46,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Thank you always being there to listen. I am so lucky to have you as my best friend. Enjoy your birthday!"
+      },
+      {
+         "id":47,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"I am so thankful and happy that we are best friends. Enjoy your birthday and happy birthday wishes for my best friend!"
+      },
+      {
+         "id":48,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Happy birthday to my best friend! We are such a great team: I am smart, good-looking and talented and you are great at being my friend!"
+      },
+      {
+         "id":49,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"You may be getting older but at least I still look great! Happy birthday best friend!"
+      },
+      {
+         "id":50,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Sending you nothing but positive vibes on your birthday ❤️"
+      },
+      {
+         "id":51,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"I hope you know how much you’re loved today, best friend! Happy birthday!"
+      },
+      {
+         "id":52,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Every year on your birthday, I get reminded of how much you mean to me as a best friend."
+      },
+      {
+         "id":53,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Birthdays only come once a year, and your friendship only comes once a lifetime."
+      },
+      {
+         "id":54,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Wishing I could spend your birthday with you, but know you’re on my mind and in my heart ♥️"
+      },
+      {
+         "id":55,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"You’re like a sister to me. Cheers to many more birthdays glowing together."
+      },
+      {
+         "id":56,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"My best friend was born today! Where would I be without you?"
+      },
+      {
+         "id":57,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Happy birthday to my partner-in-crime and my favorite person!"
+      },
+      {
+         "id":58,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"You deserve all the cake, happiness, and love today. Happy birthday and #treatyourself!"
+      },
+      {
+         "id":59,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Thank you for being the brightest person I know. Hope to see you shine for years on!"
+      },
+      {
+         "id":60,
+         "nama_cat":"Birthday Wishes 2",
+         "deskripsi":"Thanks for being my turn up partner, venting partner, and everything in between! Enjoy your day!"
+      },
+      {
+         "id":61,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"You’ve grown so much in one year. I’m always so proud of you! Happy Birthday."
+      },
+      {
+         "id":62,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Happy birthday! Wishing you many more years of good health and prosperity."
+      },
+      {
+         "id":63,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"I hope you’re enjoying your special day—may life continue to bring you the best days ahead. 💜"
+      },
+      {
+         "id":64,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Thank you for living your life in a way that makes every day worth celebrating. Happiest of birthdays!"
+      },
+      {
+         "id":65,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Even though celebrations might look a bit different this year, you're always the life of the party—over Zoom, and all. Happy birthday!"
+      },
+      {
+         "id":66,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Don't count the candles,but see the light they give. Don't count your years but the life you live. Happy Birthday."
+      },
+      {
+         "id":67,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"You’re making a beautiful life for yourself—enjoy it, especially today!"
+      },
+      {
+         "id":68,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Here's my annual reminder that there's no one like you! Wishing you the best birthday!"
+      },
+      {
+         "id":69,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"There are friends and then there are best friends, happy birthday to the best friend I could have asked for!"
+      },
+      {
+         "id":70,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Cheers to you for another trip around the sun!"
+      },
+      {
+         "id":71,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Today is about you. I can’t wait to celebrate you all day long!"
+      },
+      {
+         "id":72,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"My wish for you is that you get all of your birthday wishes this year 🎂"
+      },
+      {
+         "id":73,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"We're gonna sip [insert BBF's favorite drink] like it’s yo birthday 🥳"
+      },
+      {
+         "id":74,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"I hope you’re treated like the queen you are today, my friend 👑"
+      },
+      {
+         "id":75,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Wishing you the happiest of birthdays and many more that top the year before!"
+      },
+      {
+         "id":76,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Happy birthday to my ride or die. Love you bunches!"
+      },
+      {
+         "id":77,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Happy birthday! Here’s to more life, love, and adventures with you to come!"
+      },
+      {
+         "id":78,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Wishing you 24 hours of joy, though you deserve a lifetime of it."
+      },
+      {
+         "id":79,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Cheers to the nights that turned into mornings and the friend that turned into family. Happy Birthday!"
+      },
+      {
+         "id":80,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Life is more fun with you at my side! Let’s make this birthday memorable!"
+      },
+      {
+         "id":81,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"You’re not just my best friend, you’re the best period! Happy Birthday!"
+      },
+      {
+         "id":82,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Our age is merely the number of years the world has been enjoying us!"
+      },
+      {
+         "id":83,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Happiness is seeing your best friend grow up with you! Happy Birthday!"
+      },
+      {
+         "id":84,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Every cool person has an even cooler best friend! Happy Birthday!"
+      },
+      {
+         "id":85,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Happy birthday to my irreplaceable best friend."
+      },
+      {
+         "id":86,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Distance is nothing to the person who means everything! Happy Birthday!"
+      },
+      {
+         "id":87,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Hello to a new year with an even better YOU! Happy Birthday!"
+      },
+      {
+         "id":88,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"If you’re getting old, that means I am too!"
+      },
+      {
+         "id":89,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Don’t forget to smile awkwardly as everyone sings you happy birthday today!"
+      },
+      {
+         "id":90,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Birthday calories don’t count so next drink is on me! 🍹"
+      },
+      {
+         "id":91,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"How many birthdays have we spent together now? I guess it’s official—you’re stuck with me."
+      },
+      {
+         "id":92,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"I thought you get finer and wiser with age? Well, there’s always next year 😂"
+      },
+      {
+         "id":93,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Don’t think of it as getting older, think of it as becoming a classic."
+      },
+      {
+         "id":94,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"You suck at aging! Can you at least try to look older?"
+      },
+      {
+         "id":95,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Happy birthday. It took you [BFF's age] years to look this good!"
+      },
+      {
+         "id":96,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Happy birthday to my forever young friend!"
+      },
+      {
+         "id":97,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"You’re older today than yesterday but younger than tomorrow, happy birthday!"
+      },
+      {
+         "id":98,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Happy birthday to this dime in her prime!"
+      },
+      {
+         "id":99,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"It’s not that diamonds are a girl’s best friend, but it’s your best friends who are your diamonds!"
+      },
+      {
+         "id":100,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Hey you! It’s your birthday! Cake! Candles! Drinks! Presents! More drinks! Can you tell I’m excited?"
+      },
+      {
+         "id":101,
+         "nama_cat":"Birthday Wishes 3",
+         "deskripsi":"Woah, time flies when you're having fun! How'd we get so old?"
+      }
+   ]
+}
