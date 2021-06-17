@@ -1,0 +1,641 @@
+{
+   "Iklan":[
+      {
+         "status":"0",
+         "link":"https://play.google.com/store/apps/details?id=",
+         "interid":"ca-app-pub-3940256099942544/1033173712",
+         "nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "openid":"ca-app-pub-3940256099942544/1033173712",
+         "deskripsi_update":"Ini mah hanya contoh saja promosi iklan via json",
+         "link_update":"https://www.google.com/",
+         "interval":1,
+         "pengaturan_iklan":"1",
+         "startappid":"12345678",
+         "version_app":1,
+         "fan_inter":"YOUR_PLACEMENT_ID",
+         "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+         "inmobi_inter":1476878485960,
+         "inmobi_banner":1473189489298,
+         "hpk_admob1":"",
+         "hpk_admob2":"",
+         "hpk_admob3":"",
+         "hpk_admob4":"",
+         "hpk_admob5":""
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "nama_cat":"Malam Jumat 1",
+         "gambar":"https://fauzarifdeveloper.files.wordpress.com/2021/06/iconkatamalamjumat.png"
+      },
+      {
+         "id":2,
+         "nama_cat":"Malam Jumat 2",
+         "gambar":"https://fauzarifdeveloper.files.wordpress.com/2021/06/iconkatamalamjumat.png"
+      },
+      {
+         "id":3,
+         "nama_cat":"Malam Jumat 3",
+         "gambar":"https://fauzarifdeveloper.files.wordpress.com/2021/06/iconkatamalamjumat.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Semua pada bikin status sunah rosul, gak mikirin perasaannya janda."
+      },
+      {
+         "id":2,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"STMJ, Siap tempur malam jumat."
+      },
+      {
+         "id":3,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Air beriak tanda tak dalam, istri berteriak tanda terlalu dalam."
+      },
+      {
+         "id":4,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Malam minggu hanya untuk mereka yang gak tau nikmatnya malam jumat."
+      },
+      {
+         "id":5,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Ini adalah malam dimana yang jomblo bingung keluar kemana, yang suami istri bingung ngeluarin dimana."
+      },
+      {
+         "id":6,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Kalo pas malam ini kamu dengar lolongan anjing, jangan langsung takut mungkin tetangga anda lagi gaya anjing."
+      },
+      {
+         "id":7,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Sekarang malam jumat tak doakan semoga istrinya pada haid semua."
+      },
+      {
+         "id":8,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Malam ini, malam wajib militer."
+      },
+      {
+         "id":9,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Papa cepat pulang, ingat malam jumat ojo dolan wae jatahe numpaki aku pah?."
+      },
+      {
+         "id":10,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Berakit-rakit kita kehulu, berenang kita sampai ketepian. ayo segera kita ke penghulu, agar tiap maljum tidak kesepian."
+      },
+      {
+         "id":11,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Wanita sering tidak konsisten, sering demo teriak teriak anti kekerasan. Pas ada maunya malah minta yang keras."
+      },
+      {
+         "id":12,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Apa artinya maljum jika ranjang di kamar ini tak berpenghuni."
+      },
+      {
+         "id":13,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Udah malem jumat lagi gusti, kasihan yang belum pada nikah."
+      },
+      {
+         "id":14,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Malam ini ada yang gerayangan, ada yang gentayangan, tiap orang punya cara masing-masing senang."
+      },
+      {
+         "id":15,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Malam jumat sering terjadi pada hari kamis."
+      },
+      {
+         "id":16,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Terima kasih Tuhan, karena hari ini Kau menyadarkanku bahwa aku di kirim ke dunia untuk bisa berguna bagi sesamaku."
+      },
+      {
+         "id":17,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Ya Allah, bantulah ibu untuk terus sehat. Agar senantiasa kami dijaganya, dilimpahinya dgn kasihnya yg bagai mentari."
+      },
+      {
+         "id":18,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Ya Tuhan, berkatilah pendidikanku utk saat ini dan ke depannya. Semoga apa yg kupelajari bisa menjadikanku seseorang yg berguna nantinya."
+      },
+      {
+         "id":19,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Ya Allah, jangan Kau butakan hati ini dengan harta, tahta dan kemaksiatan."
+      },
+      {
+         "id":20,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Ya Robbi, hanya dengan menghadapMu hati ini selalu merasa tentram dan damai."
+      },
+      {
+         "id":21,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Ya Allah, tetangga lagi sunah rosul aku kudu piye?"
+      },
+      {
+         "id":22,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Aku lelah dengan pertengkaran kita, lelah dengan semua sikap kamu, lelah dengan jarang, ingin rasanya mengakhiri tapi tak mampu."
+      },
+      {
+         "id":23,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Ini bukan tentang jarak, ini lebih tentang bagaimana kita saling memberi dan menjaga kepercayaan."
+      },
+      {
+         "id":24,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Wahai wanita tenang saja mulai dari sekarang jangan takut ternoda selama masih ada rinso anti noda."
+      },
+      {
+         "id":25,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Mau mandi tapi belum siap lahir batin."
+      },
+      {
+         "id":26,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Strong. Stres tak tertolong."
+      },
+      {
+         "id":27,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Masa depan tergantung pada impian kamu. Maka pergilah tidur sekarang."
+      },
+      {
+         "id":28,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Kentut aja ada yang cium masa lo engga ada."
+      },
+      {
+         "id":29,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Kampret adalah ketika lu nutupin kejelekan dia, dia malah jelek-jelekin lu."
+      },
+      {
+         "id":30,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Kata cowok “barangnya cewek itu surga”, kata cewek “barangnya cowok itu setan”. Koq bisa ya setan masuk surga."
+      },
+      {
+         "id":31,
+         "nama_cat":"Malam Jumat 1",
+         "deskripsi":"Setia di status, selingkuh di inbox lanjut di wa."
+      },
+      {
+         "id":32,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Bagi jomblo harap dirumah aja pada malam horor ini, kemungkinan besar banyak penampakan mantan yang lebih menyeramkan."
+      },
+      {
+         "id":33,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Untuk yang jandan dan jomblo harap di rumah aja pada malam yang seram dan horor ini karena kemungkinan besar akan ada banyak suara anjing dan menyeramkan dari tetangga."
+      },
+      {
+         "id":34,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Kalau ada yangn nanya kenapa gak malam mingguan, jawab aja lebih enak malam jumat."
+      },
+      {
+         "id":35,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Mau malam minggu kek, malam jumat kek buat yang jomblo mah sama aja tetap bahagia."
+      },
+      {
+         "id":36,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Emang kenapa kalau jomblo? di dalam kubur juga gak ditanyain enak gak malam ini di ranjang."
+      },
+      {
+         "id":37,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Gw mah boro-boro sunah rosul mau ngayal aja takut haram."
+      },
+      {
+         "id":38,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Tetap kalem walaupun sedang jomblo."
+      },
+      {
+         "id":39,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Stop untuk yang bilang malam ini malam buat sunah rosu, gua masih kecil gak tahu sunah rosul itu apaan."
+      },
+      {
+         "id":40,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Hidup itu cuma sebentar, ngejomblonya yang kelamaan."
+      },
+      {
+         "id":41,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Jomblo adalah orang yang paling kuat di malam ini, karena tidak mengeluarkan energi untuk tempur di malam ini."
+      },
+      {
+         "id":42,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Malam jumat sayang, mau tidur lagi apa mau lagi.."
+      },
+      {
+         "id":43,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Malam ini sama malam minggu sama-sama menyeramkan."
+      },
+      {
+         "id":44,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Gw gak peduli sekarang malam apa, internet adalah kehidupan gw."
+      },
+      {
+         "id":45,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Katakan tidak untuk mengatakan malam ini horror, katakan yes untuk mengatakan narik kolor malam ini."
+      },
+      {
+         "id":46,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Malam jumat? ya yasinan lah."
+      },
+      {
+         "id":47,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"saiki malam jumat, yuk shalwatan."
+      },
+      {
+         "id":48,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Maaf sedang sunah rosul, jangan chat dulu."
+      },
+      {
+         "id":49,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Biarpun gendut, kamu kuat banget malam ini."
+      },
+      {
+         "id":50,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Tong kosong bunyi nyarinya, kalau kue mu masih kosong boleh dong aku isiin."
+      },
+      {
+         "id":51,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Malam Jumat sering terjadi pada hari Kamis."
+      },
+      {
+         "id":52,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Malam Jumat? Ngaji yang diperbanyak, bukan mutualan."
+      },
+      {
+         "id":53,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Paling nggak suka kalo udah malem, udah mau merem, tiba tiba ada yang panggil-panggil. Maksudnya belalang."
+      },
+      {
+         "id":54,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Sulit memejamkan mata dan sulit terlelap karena kamu selalu mengusik pendengaranku serta mencumbu seluruh badanku di setiap malam, wahai nyamuk."
+      },
+      {
+         "id":55,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Setiap yang bernyawa pasti akan merasakan mati, patah hati, dan ditipu politisi."
+      },
+      {
+         "id":56,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Malam Jumat sama malam Minggu kok nggak ada bedanya ya, sama-sama menyeramkan bagi jomblo."
+      },
+      {
+         "id":57,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Berakit-rakit ke hulu, berenang-renang ke tepian. Ayo segera kita ke penghulu, agar tiap malam Jumat tidak kesepian."
+      },
+      {
+         "id":58,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Malam Jumat jomblo-jomblo pada strong (Stres Tak Tertolong)."
+      },
+      {
+         "id":59,
+         "nama_cat":"Malam Jumat 2",
+         "deskripsi":"Malam Jumat kayak gini ngapain lu belum tidur? Jangan nunggu kabar dari dia yang sejatinya tidak mengharapkan mu hadir."
+      },
+      {
+         "id":60,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam Minggu malamnya anak muda, malam Jumat malamnya papa mama."
+      },
+      {
+         "id":61,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam minggu? Mereka yang merayakan malam Minggu tidak akan tahu betapa nikmat malam Jumat."
+      },
+      {
+         "id":62,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Terima kasih Tuhan karena hari ini Engkau menyadarkanku bahwa aku dikirim ke dunia untuk bisa berguna bagi sesamaku."
+      },
+      {
+         "id":63,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Ya Robbi, hanya dengan menghadapmu di malam Jumat ini, hati selalu merasa tenteram dan damai."
+      },
+      {
+         "id":64,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam Jumat waktunya selawatan dan jangan berbuat maksiat."
+      },
+      {
+         "id":65,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Perbanyaklah selawat kepadaku pada hari dan malam Jumat karena barangsiapa yang berselawat kepadaku sekali, maka Allah akan berselawat kepadanya 10 kali. - HR. Al-Baihaqi"
+      },
+      {
+         "id":66,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam Jumat kurangi maksiat, cepatlah bertobat dan ingatlah kiamat sudah dekat."
+      },
+      {
+         "id":67,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam Jumat sering terjadi pada hari Kamis."
+      },
+      {
+         "id":68,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Setiap malam Jumat, ahli kubur pulang ke rumahnya untuk meminta doa bacaan Al-Qur'an, walau cuma satu ayat."
+      },
+      {
+         "id":69,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Lepaskan semua masalah yang membebani pikiran dan hatimu malam ini. Kamu akan bangun dengan perasaan segar besok."
+      },
+      {
+         "id":70,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam adalah bagian lain dari kehidupan. Bagian yang terbaik. Jika kamu melewatkan malam, kamu kehilangan bagian terbaik dari kehidupan. Jadi, nikmati malam."
+      },
+      {
+         "id":71,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Beberapa malam dihadirkan untuk renungan, refleksi, dan menikmati kesunyian."
+      },
+      {
+         "id":72,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam Jumat merupakan malam yang baik untuk kehidupan."
+      },
+      {
+         "id":73,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam hari adalah kesempatan indah untuk berdoa, beristirahat, memaafkan, melupakan, dan memulai hari esok dengan lebih baik."
+      },
+      {
+         "id":74,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Tangkaplah malam dengan keheningan di hatimu, dengan iman yang tulus kepada Penciptamu, dan berdoalah seolah ini adalah malam terakhirmu."
+      },
+      {
+         "id":75,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Setiap malam tanyakan pada diri sendiri, apakah kamu sudah selangkah lebih dekat kepada Allah atau justru selangkah lebih jauh?"
+      },
+      {
+         "id":76,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Sesungguhnya di malam hari, ada saat seorang muslim meminta kebaikan dunia dan akhirat, pasti Allah memberinya. Itu berlangsung setiap malam. – HR. Muslim"
+      },
+      {
+         "id":77,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Jika boleh meminta, Tuhan aku berharap orang-orang yang ku cintai bahagia, khususnya kedua orang tuaku. Untuk ayah dan ibu tercinta selamat malam Jumat, semoga di hari Jumat ini keberkahan selalu menyertai kita."
+      },
+      {
+         "id":78,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Selamat malam Jumat untuk orang-orang hebat, semoga air mata tidak akan datang kembali, walau hati terasa remuk. Sebab, mata telah lelah menangis."
+      },
+      {
+         "id":79,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Selamat malam Jumat, diriku yang sedang berjuang melupakan seseorang yang tega mengkhianati ketulusan hati, semoga dengan doa-doa di malam ini, dapat Allah kabulkan."
+      },
+      {
+         "id":80,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Cuma mau ngingetin aja."
+      },
+      {
+         "id":81,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Sebelum malam jumatan jangan lupa mandi tsayyy, biar ga drop pas mau perang"
+      },
+      {
+         "id":82,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Cuacanyaa pas banget semoga pacar jemput malam jumat , eeh eehh"
+      },
+      {
+         "id":83,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"“diputusin pacar di malam jumat” termasuk horror gak yah?"
+      },
+      {
+         "id":84,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam jumat gak punya pacar, mending nungguin pacar orang."
+      },
+      {
+         "id":85,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Gapapa malam minggu gak pacaran, yang penting kemarin udah malam senin, selasa, rabu, kamis, jumat, dan malam sabtuan sama pacar."
+      },
+      {
+         "id":86,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam jumat adalah malam terindah dimana semua pasangan menumpahkan keringat kebahagiaan dan kenikmatan.. Pacar mana pacar?"
+      },
+      {
+         "id":87,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam Jumat. Lilin nya jangan mati ya, nanti pacar nya berubah wujud."
+      },
+      {
+         "id":88,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malem Minggu tanpa pacar = malam jumat"
+      },
+      {
+         "id":89,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam jumat bawa obor nyari belut, pas dapat belutnya lagi pacaran. yang nangkep jomblo."
+      },
+      {
+         "id":90,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"ngenalin pacar ke orang tua untuk pertama kali itu lebih horror dari malam Jumat Kliwon."
+      },
+      {
+         "id":91,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Yang tidak boleh dilakukan bersama pacar ketika malam jumat: Nananina dengan pembenaran “sunah rosul”., dan Ngajak malam mingguan."
+      },
+      {
+         "id":92,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Entah mana yang lebih seram di malam jumat ini. Melihat mantan pacar di depanmu, atau pacar baru yang tengah digandengnya saat ini."
+      },
+      {
+         "id":93,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Aku gak pernah takut malam Jumat, yang aku takut ketika Mama kamu bilang “Mama gak suka liat pacar kamu yang sekarang, jauhin ya nak”."
+      },
+      {
+         "id":94,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Dapet pacar di MALAM JUMAT, wajib curiga tuh itu pacar apa hantu, haha"
+      },
+      {
+         "id":95,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Dapet pacar di MALAM JUMAT, wajib curiga tuh itu pacar apa hantu, haha"
+      },
+      {
+         "id":96,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Yang mengelu-elukan malam minggu pasti belum tau nikmatnya malam jumat"
+      },
+      {
+         "id":97,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malem jumat gini kalo malem banyak yang bersih-bersih nih padahal tadi udah siap tidur."
+      },
+      {
+         "id":98,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"malem jumat, siap dgn jamu andalan, jamu jowo cap “SORENGAT” sore diunjuk bengi Njengat"
+      },
+      {
+         "id":99,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Sekarang hari kamis, jomblo lagi ke pasar beli kembang 7 rupa. Persiapan mandi entar malam jumat, biar laris"
+      },
+      {
+         "id":100,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"sekarang malam jumat, tapi saya golput . . . gaikutan nyoblos"
+      },
+      {
+         "id":101,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"udah cuacanya dingin pas banget malam jumat.. eh lupa kalo jomblo"
+      },
+      {
+         "id":102,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Mblo, malam jumat neh, sabar ya | Hubungannya apa, kan bukan malam minggu? | Heh, makhluk astral juga ada yang jomblo."
+      },
+      {
+         "id":103,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam jumat serem bagi yang penakut malam minggu serem bagi yang jomblo malam senin serem bagi yang sekolah cuma mlm pertama yang enak banget uupps"
+      },
+      {
+         "id":104,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Berakit-rakit ke hulu, Berenang-renang ketepian, jomblo nya kesepian mulu, tiap malam jumat sendirian"
+      },
+      {
+         "id":105,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Konon katanya kalo malam jumat jomblo bisa berubah jadi gak punya pacar"
+      },
+      {
+         "id":106,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam jumat takut hantu, malam minggu sendirian inget mantan. Jomblo ketakutannya emang 2 kali."
+      },
+      {
+         "id":107,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam jumat malamnya orang yang sdh bekeluarga. Malam minggu malamnya orang yang pacaran. Kalo malam jomblo?"
+      },
+      {
+         "id":108,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam-malam aku sendiriii……..??"
+      },
+      {
+         "id":109,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam jumat, p@sutri  Ger@y@ng@n, Jomblo : gentayangan."
+      },
+      {
+         "id":110,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"malam jumat Couple, beduaan | LDR, telponan | Jomblo, ngepet berjamaah, ketauan, lalu dibakar massa."
+      },
+      {
+         "id":111,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Selamat Malam Jumat. Yang masih lembur, tetap semangat.. Yang masih dijalan, tetap hati-hati.. Yang sudah dirumah, selamat berkumpul keluarga.. Yang chatnya belum dibalas dari pagi, tungguin aja~ Yang masih jomblo? *sinyal ilang*"
+      },
+      {
+         "id":112,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"malam jumat Couple, beduaan | LDR, telponan | Jomblo, ngepet berjamaah, ketauan, lalu dibakar massa."
+      },
+      {
+         "id":113,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Selamat Malam Jumat. Yang masih lembur, tetap semangat.. Yang masih dijalan, tetap hati-hati.. Yang sudah dirumah, selamat berkumpul keluarga.. Yang chatnya belum dibalas dari pagi, tungguin aja~ Yang masih jomblo? *sinyal ilang*"
+      },
+      {
+         "id":114,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Malam Jumat.yang udh couple-an,monggo enna enna!"
+      },
+      {
+         "id":113,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Selamat Malam Jumat. Yang masih lembur, tetap semangat.. Yang masih dijalan, tetap hati-hati.. Yang sudah dirumah, selamat berkumpul keluarga.. Yang chatnya belum dibalas dari pagi, tungguin aja~ Yang masih jomblo? *sinyal ilang*"
+      },
+      {
+         "id":116,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Semoga lstrinya pada datang bulan semua…Amin. Hahaahhaa…Dasar Jomblo!."
+      },
+      {
+         "id":117,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Derita Jomblo di malam jumat..,, Mau bobok tapi bosan sama gerakan nyaa"
+      },
+      {
+         "id":118,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"Semoga lstrinya pada datang bulan semua…Amin. Hahaahhaa…Dasar Jomblo!."
+      },
+      {
+         "id":119,
+         "nama_cat":"Malam Jumat 3",
+         "deskripsi":"yang masih jomblo silakan, malem jumat kliwon ini, terusin bakar menyan."
+      }
+   ]
+}

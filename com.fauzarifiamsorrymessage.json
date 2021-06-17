@@ -1,0 +1,566 @@
+{
+   "Iklan":[
+      {
+         "status":"0",
+         "link":"https://play.google.com/store/apps/details?id=",
+         "interid":"ca-app-pub-3940256099942544/1033173712",
+         "nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "openid":"ca-app-pub-3940256099942544/1033173712",
+         "deskripsi_update":"Ini mah hanya contoh saja promosi iklan via json",
+         "link_update":"https://www.google.com/",
+         "interval":1,
+         "pengaturan_iklan":"1",
+         "startappid":"12345678",
+         "version_app":1,
+         "fan_inter":"YOUR_PLACEMENT_ID",
+         "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+         "inmobi_inter":1476878485960,
+         "inmobi_banner":1473189489298,
+         "hpk_admob1":"",
+         "hpk_admob2":"",
+         "hpk_admob3":"",
+         "hpk_admob4":"",
+         "hpk_admob5":""
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "nama_cat":"Sorry Message 1",
+         "gambar":"https://fauzarifdeveloper.files.wordpress.com/2021/06/iconsorrymessage.png"
+      },
+      {
+         "id":2,
+         "nama_cat":"Sorry Message 2",
+         "gambar":"https://fauzarifdeveloper.files.wordpress.com/2021/06/iconsorrymessage.png"
+      },
+      {
+         "id":3,
+         "nama_cat":"Sorry Message 3",
+         "gambar":"https://fauzarifdeveloper.files.wordpress.com/2021/06/iconsorrymessage.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I am an imperfect being, but this does not justify the mistakes that I have made to you. I understand that even if I say sorry, it will not change anything. However, I will keep my promise that I will change because I want to become a better person for you."
+      },
+      {
+         "id":2,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I never meant to upset you because you are valuable to me. Losing you will make ruin my life. I ask for forgiveness for making you feel the opposite. I love you always."
+      },
+      {
+         "id":3,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I always cause some mess. It is never your fault. I’m sorry for making you feel unhappy. I cannot believe that I cause hurt to you. You are my only hope for my life. I promise you that I will do my best to make a better version of myself for you."
+      },
+      {
+         "id":4,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I’m sorry for making you sad and hurting you because of my crazy temper. I still even can’t believe that you chose me to be your behalf. I will strive hard to make myself better for you."
+      },
+      {
+         "id":5,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"You helped me to become a better person. Honestly, I am trying hard to become better for you. I’m sorry that I have hurt you. I humbly ask for your forgiveness."
+      },
+      {
+         "id":6,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I know you are mad at me right now. I hate seeing you cry. I have myself for realizing that I have hurt you. Please, give us a chance to fix this. I fully commit to listen and become more understanding, so I will not lose you.”"
+      },
+      {
+         "id":7,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"They say that in love, there is always a fight. They fight because they care about their differences. And for that, I care about you. But being rude and hurting is never justifiable because I have hurt you. I never meant to hurt you.”"
+      },
+      {
+         "id":8,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I realize that I become self-centered and have not considered your happiness. I realize that I can never be happy with you. I realize that I can only be truly happy If I make you happy, my love. I ask for your forgiveness”."
+      },
+      {
+         "id":9,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I believe that love is patient; love is kind and does keep a record of wrongs. I humbly kneel and ask for your forgiveness."
+      },
+      {
+         "id":10,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I’m sorry for the wrongdoings I did that disappoint you. You are the best boyfriend/girlfriend in the world, for you never stop being in my side despite my inequities. Please forgive me."
+      },
+      {
+         "id":11,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I am sad and ashamed of my actions. I am frustrated that I have hurt my boyfriend/girlfriend. I am sorry and I love you so much."
+      },
+      {
+         "id":12,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"You are the only person who taught me that asking humble forgiveness is the bravest thing I can ever do. It frustrates me because I hurt the feelings of the number 1 man/woman in my life. That is you, sweetheart. I’m sorry, and I ask for your forgiveness."
+      },
+      {
+         "id":13,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I always believe you are a person with a big heart. I would like to ask for another chance. I am asking humbly for your forgiveness of the things that disappoint you. I am sad and ashamed. I will never do this again."
+      },
+      {
+         "id":14,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I have hurt your feelings. I am now suffering from the things I made. I felt I lose the ultimate blessings in life because I have hurt you the most. I’m sorry. Please forgive me."
+      },
+      {
+         "id":15,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"As you have said, nobody can be perfect. Each one of us has flaws. I made mistakes that disappointed you. I ask for your forgiveness. I love you so much."
+      },
+      {
+         "id":16,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I have never been the boyfriend/girlfriend that you deserve to be. But, darling, I promise you with all my heart that tomorrow, you will have a new man/woman that you truly deserve. I’m sorry."
+      },
+      {
+         "id":17,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"Since the day I met you, you fill me with all the unconditional love and care. But I left your heart full of hurt and bare. Still, you fill my life with all the nice things I can see, but I filled you with cries. Babe, I am asking for your forgiveness."
+      },
+      {
+         "id":18,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"Pardon me for my bad attitude and reaction I did yesterday, I know that I made you feel ashamed and hurt. I am sorry."
+      },
+      {
+         "id":19,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"Every time I hurt you, I put blisters in myself. Every time I made you angry, I am belittling myself, Every time I complain to you, I downgrade myself. Please forgive me, my love."
+      },
+      {
+         "id":20,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I know that I have always been rude and trying to project myself that I hated you. I was trying to prove myself to you. But I realize I am just becoming a bit stupid, not understanding that all that you want is what is best for me. I’m sorry, and forever I will love you."
+      },
+      {
+         "id":21,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"Yesterday is the saddest moment for me as I cannot believe that we made a fight last night. I’m sorry for whatever is the cause. I promise that I will change and become good for you."
+      },
+      {
+         "id":22,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"You are my priceless love. I’m sorry for not listening to you and going the other way. I realize the huge mistake I commit. I love you always."
+      },
+      {
+         "id":23,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I regret throwing bad words to you. It makes my heart cry. It makes me down and feels incomplete. I humbly ask for your forgiveness."
+      },
+      {
+         "id":24,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I am the luckiest person on this planet for having a boyfriend/girlfriend like you. But I always cause you some headaches. I promise to become the best person that you can be proud of. I’m sorry for the wrongdoings I did."
+      },
+      {
+         "id":25,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"For many years, you are always the one that never abandons me. You stay on my side no matter what happens. But I let you down. I hurt your feelings. I made you upset. I’m sorry, my love."
+      },
+      {
+         "id":26,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I miss the moments that we laugh together, we cry together, and we tap our back together. But I hurt you and cause pain you pain. Please remember the happy moments we shared. I am asking for your forgiveness."
+      },
+      {
+         "id":27,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I am sorry for the mistakes I cause you. I did not intentionally plan to commit such wrongdoing. I promise never to do it again."
+      },
+      {
+         "id":28,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I look up to you so much. I look at you with high honor and respect. Since I made a mistake and made you upset, I am currently ashamed. I hope you can still give me a chance to change and make it up with you."
+      },
+      {
+         "id":29,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"For the last few days, I feel so lonely. I’m missing the sweetest hug of my husband. I’m missing the nice words while my husband is talking. I’m missing the kindest smile of my husband. I am sorry honey, please forgive me for my actions that hurt you"
+      },
+      {
+         "id":30,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"I hurt you, but it doesn’t mean I lost my unconditional to you. I also suffer from pain. I am sorry my dearest husband"
+      },
+      {
+         "id":31,
+         "nama_cat":"Sorry Message 1",
+         "deskripsi":"A handsome, stunning, and loving man can never be mad at me. Please forgive me. I hope we can be back in normal mode because I miss you now."
+      },
+      {
+         "id":32,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"Honey, forgive me as soon as possible. Otherwise, the fight continuous, and we will get the trophy of being the “happiest couple in town.” I’m sorry, my dearest honey."
+      },
+      {
+         "id":33,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"Dear, I am guilty of what I have done. I beg your forgiveness. You are a man with a big heart. I love you even in times of challenges like this. This will never happen again"
+      },
+      {
+         "id":34,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"When we made our vows, we both accept that we both have small potholes in life. These potholes are the challenges in the freeway of our married life. Can we fix our potholes together?"
+      },
+      {
+         "id":35,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"The mistakes I commit sucks! I made you angry and upset. I lost your trust in me. But I promise you that I will replace it will with kisses, hugs, and love. I am sorry."
+      },
+      {
+         "id":36,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"I’m sorry for my extreme nagging and repulsive behavior. Today, I will start to better myself for you."
+      },
+      {
+         "id":37,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"I am ready to do anything. I am ready to do everything. I am ready to take away all the hurt I made you. I’m sorry. Please forgive me."
+      },
+      {
+         "id":38,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"Ever since we decided to date, we met plenty of setbacks, bad times, and challenges. Yet, we never give up and never allow those to rotten our relationship. Can we not let it happen this time? Please forgive me. I love you, my boyfriend."
+      },
+      {
+         "id":39,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"Baby, we promised not to allow anything to get in our way. But I’m sorry for the mistake I did that disappoint and made you angry. I am also terribly sorry about what happened. I hope and pray that you can forgive me. Please accept me back in the warm of your arms."
+      },
+      {
+         "id":40,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"I’m sorry about the mistrust I give you. I realize that I have been so unfair towards you. Can I put my fingers in the spaces between your fingers back again? I love you."
+      },
+      {
+         "id":41,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"Since the time you accept me and allow me to love you, all I ever wanted is to make you happy. I think my effort is not enough, as it did not appear that much. I am sorry for being insensitive. I ask for your forgiveness."
+      },
+      {
+         "id":42,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"If I can turn back the time, I want to start over and choose not to take the dumb actions and make you upset. Please forgive me. I am sorry."
+      },
+      {
+         "id":43,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"No explanation can justify the stupidity that I did. It hurts you. I am truly sorry. I want to correct everything I did. Please take me back. I love you honey."
+      },
+      {
+         "id":44,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"You are my first serious relationship. I never thought it could never happen in my life. Now, your absence is giving a null moment of my life. I am the person to be blamed for losing you. Please forgive me. I love you."
+      },
+      {
+         "id":45,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"I feel the pain of realizing that such a small mistake made us suffer like this. What a stupid act of me. Can we not let our relationship end this way? Please accept me. Please forgive me."
+      },
+      {
+         "id":46,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"I am now feeling the emptiness. How can I function now without you? I’m shedding my tears because of the stupid mistake. I’m sorry, my love. Please forgive me."
+      },
+      {
+         "id":47,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"He loves me, he loves me not, he loves me, he loves me not, I hope you keep loving me. Please forgive me."
+      },
+      {
+         "id":48,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"I feel so lonely. I’m missing your warm embrace that comforts me. Please forgive me."
+      },
+      {
+         "id":49,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"If there is what I want to have at this moment, it is to be in your arms again. Please accept my apology"
+      },
+      {
+         "id":50,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"If there is one spot I want to go at this time, it will be in your arms. Please forgive me."
+      },
+      {
+         "id":51,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"We may have argued, but that I because I want to have the best things for both of us. I’m sorry for the hurting words I said."
+      },
+      {
+         "id":52,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"You are the hottest guy that deserves the most understanding girlfriend. I’m sorry for the tantrums that caused you to be annoyed. I promise to throw them away and choose you to be my comfort."
+      },
+      {
+         "id":53,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"I’m sorry for ignoring you these days. I’m fed up with so much work and deadlines. I promise that I will make it up to you."
+      },
+      {
+         "id":54,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"I’m sorry for making you annoyed with my jealousy and possessive attitude. I am just afraid of the other girls. I promise to work out my temper and trust in your love."
+      },
+      {
+         "id":55,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"What should I do to make it up with you? I will do anything just hear you say to me that “I forgive you.”"
+      },
+      {
+         "id":56,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"To my ever-loving wife, I deeply ask forgiveness for my bad temper and bad words. Please forgive me. I love you until the end of my life."
+      },
+      {
+         "id":57,
+         "nama_cat":"Sorry Message 2",
+         "deskripsi":"Do you know how great my love for you is? I say that it is immeasurable. That time when I made a mistake, my heart tremble and cry because I do not want to lose you. Please talk to me."
+      },
+      {
+         "id":58,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"When we made our promises in front of the minister, I know at that time that half of me is in you. Now that we are in this situation, I feel down and cannot function well. Please forgive me. I will never let the mistake happen again."
+      },
+      {
+         "id":59,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"My dearest darling, I am very sorry for the mistakes I have made. I accept that I was wrong. Please give me your big heart and forgive me."
+      },
+      {
+         "id":60,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"My sweet wife, I’m sorry for being rude and hurt you with my bad mouth. The stress I have in my work is not a good reason for doing such cruelty. I want to make it up with you. I’m sorry. Please give me your forgiveness."
+      },
+      {
+         "id":61,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Realizing now how much I broke you because I have hurt you the most. I’m sorry about the fight. My heart is weeping in sadness. Please forgive me, my loving wife."
+      },
+      {
+         "id":62,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I’m sorry, my dear, for the pride of my heart. It took time for me to realize that being proud is also breaking you as my wife. I promise to do my very best never to let it happen again."
+      },
+      {
+         "id":63,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"May you feel the sincerity of my apology. I’m very sorry for hurting you so much. I’m sorry for the hurting words that came out of my mouth. Please I am asking for your forgiveness"
+      },
+      {
+         "id":64,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"My tears are dropping as looking at the raindrops. I remember the moments we shared. As the rain soaks in my skin, I remember our love and realize how stupid I am for hurting you. I’m sorry. I hope you give me another chance."
+      },
+      {
+         "id":65,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I can make the ground shaken because of my love. My love can shatter the earth. My heart broke when you left me. I regret and angry with myself for letting such a stupid act. It is my fault. Please forgive me. I love you. Please let us be together again."
+      },
+      {
+         "id":66,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I feel like an idiot, thinking that everything that happened is because of my immature mindset. I regret what happened. I wish I can still have the chance to come back and give you my warm, loving arms. I love you so much, and I am deeply sorry."
+      },
+      {
+         "id":67,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Every day and Every night, I am haunted by my thoughts because of the pain I caused you. I regret giving you tears instead of laughter. Please forgive me."
+      },
+      {
+         "id":68,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I love you more deeply as you showed to me how strong you are as a woman who stood up and corrected me from the mistakes I did. It helps me change my heart and mind. Thank you. I’m sorry for being immature."
+      },
+      {
+         "id":69,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I regret uttering ugly words, behaving with disgrace, and immaturely blowing my anger. I’m sorry for the mistake I have done. Please do not allow our sorrows to set us apart."
+      },
+      {
+         "id":70,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I feel the shame for what I said to you. A simple I’m sorry may not be enough. But I am willing to do everything to get you back and be my one and only true love."
+      },
+      {
+         "id":71,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Today, my morning is dull because I am missing your smile. I hope that my apology can fix the broken smile."
+      },
+      {
+         "id":72,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"It is so shameful of me that I have a bad mouth. I put you also in a shameful situation. I regret committing such a mistake."
+      },
+      {
+         "id":73,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Please, forgive me, and I promise to become better for you."
+      },
+      {
+         "id":74,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"No words can justify my actions. I put you in a bad situation. I’m sorry for the terrible act."
+      },
+      {
+         "id":75,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I am in the park, and the sunlight reminds me of your beautiful hair. It reminds me of the laughter and smile we had. I am still waiting for you. I will never stop waiting for you. I am deeply sorry. I love you so much"
+      },
+      {
+         "id":76,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I feel the total emptiness now that you are gone. I always miss the days that you are on my side. I regret, and I am angry at myself for the mistake I have made that I lost you. Still, I am hopeful and will be waiting for your forgiveness and accepting me back in your heart."
+      },
+      {
+         "id":77,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Breaking the heart of my closest friend is the biggest failure that happened in my life. I’m sorry for everything."
+      },
+      {
+         "id":78,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"The hurt and pain that I caused you are haunting me every day. I am missing my most trusted person in this world. Please forgive me."
+      },
+      {
+         "id":79,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I have been sleepless and anxious because of the worries of losing you. I am burdened of my stupid and immature habits. I feel shame. I’m sorry, and I hope you can still be my best friend"
+      },
+      {
+         "id":80,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I’m sorry for not being so wise that it caused the sad fate of our friendship. I still believe that time will come that you will forgive me."
+      },
+      {
+         "id":81,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I wish I can travel back through time and not make a mistake. I wish to take back the pain. I wish to fill those pains with joy. I am sorry"
+      },
+      {
+         "id":82,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Our relationship is tested like gold in a fire. It becomes more refined and stronger. May you give me your forgiveness."
+      },
+      {
+         "id":83,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"The mistake I made is an honest mistake. I apologize for what I have done."
+      },
+      {
+         "id":84,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I am sorry for fighting with you. Please forgive me, my love!"
+      },
+      {
+         "id":85,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Yesterday was the best time of my life. Thank you for hugging me despite the wrong actions that I have done. You are truly my best friend and lover."
+      },
+      {
+         "id":86,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I am sorry that there are times that I take you for granted."
+      },
+      {
+         "id":87,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Thank you for giving me another chance to make up the wrong thing I did. Again, I’m sorry for such actions"
+      },
+      {
+         "id":88,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I feel so ashamed for hurting you. I am saying I’m sorry. Will be able to forgive me?"
+      },
+      {
+         "id":89,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Our relationship is still sweet, even if you add a little saltiness. I’m sorry for the silly mistakes that I have made to you."
+      },
+      {
+         "id":90,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I miss the smile of the best person in the world. My world is dull and dark because I made my best friend so upset. I am sorry, my best friend, my love. Please give me your best smile now"
+      },
+      {
+         "id":91,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Your presence is like heaven to me. You comforted me. Now that a single mistake made it dull, I feel alone and sorry. Please forgive me"
+      },
+      {
+         "id":92,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I will wait forever until the day you will forgive me"
+      },
+      {
+         "id":93,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Since the day I hurt you, my heart is bleeding. Only your forgiveness can plug the holes in my heart. I’m sorry my dear friend"
+      },
+      {
+         "id":94,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Can you give each of us a chance? Please forgive me for the single mistake I made."
+      },
+      {
+         "id":95,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"If anger is to be ugly as to forgiveness is beautiful, what will you choose?"
+      },
+      {
+         "id":96,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I know what I did wasn’t cool. I’m sorry."
+      },
+      {
+         "id":97,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I hung my head low and ask for your apology."
+      },
+      {
+         "id":98,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I realize that I became too self-centered and never consider what you feel. I beg for your forgiveness. my sweetheart."
+      },
+      {
+         "id":99,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I always believe that love is the center of our friendship. I am hopeful that you will not ignore my sincere and unconditional apology"
+      },
+      {
+         "id":100,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I need a trusted person to be back in my life. May you forgive me."
+      },
+      {
+         "id":101,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"All that happened has to be blamed for me. I am hurt because the situation caused our relationship so much."
+      },
+      {
+         "id":102,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I am too much of an idiot to make such a mistake and cost you to lose your trust in me. Believe me; it is never my intention. I’m sorry and please forgive me"
+      },
+      {
+         "id":103,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"I will never stop praying that the time will come that you and I will meet again and bring the old times of laughter and fun"
+      },
+      {
+         "id":104,
+         "nama_cat":"Sorry Message 3",
+         "deskripsi":"Both of us have differences. These differences made us be the best of friends that no one can break. I hope you will accept my apologies and forgive me."
+      }
+   ]
+}

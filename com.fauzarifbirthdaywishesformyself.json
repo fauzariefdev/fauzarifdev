@@ -1,0 +1,606 @@
+{
+   "Iklan":[
+      {
+         "status":"0",
+         "link":"https://play.google.com/store/apps/details?id=",
+         "interid":"ca-app-pub-3940256099942544/1033173712",
+         "nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "openid":"ca-app-pub-3940256099942544/1033173712",
+         "deskripsi_update":"Ini mah hanya contoh saja promosi iklan via json",
+         "link_update":"https://www.google.com/",
+         "interval":1,
+         "pengaturan_iklan":"1",
+         "startappid":"12345678",
+         "version_app":1,
+         "fan_inter":"YOUR_PLACEMENT_ID",
+         "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+         "inmobi_inter":1476878485960,
+         "inmobi_banner":1473189489298,
+         "hpk_admob1":"",
+         "hpk_admob2":"",
+         "hpk_admob3":"",
+         "hpk_admob4":"",
+         "hpk_admob5":""
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "gambar":"https://fauzarifdeveloper.files.wordpress.com/2021/06/iconwishesformyself.png"
+      },
+      {
+         "id":2,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "gambar":"https://fauzarifdeveloper.files.wordpress.com/2021/06/iconwishesformyself.png"
+      },
+      {
+         "id":3,
+         "nama_cat":"Birthday Wishes My Self 3",
+         "gambar":"https://fauzarifdeveloper.files.wordpress.com/2021/06/iconwishesformyself.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"Happy birthday to a self-willed, strong, and beautiful soul. Yes, you got it right! I am turning a year older today. HBD to me!"
+      },
+      {
+         "id":2,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"It is with great pleasure that I am here to celebrate another year of my life. I am grateful for surviving all the challenges throughout the last 365 days and turning a year older."
+      },
+      {
+         "id":3,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"Growing up, everyone around me spent all their time trying to be great. I am one of the lucky ones who has always been great. Happiest birthday to me!"
+      },
+      {
+         "id":4,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"As I turn a year older today, I am most thankful for the people around me and the gift of being alive. Happy Birthday to me."
+      },
+      {
+         "id":5,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"I am not holding back any joy today. I will love every minute of today and laugh as much as possible because it is my day. Heartfelt Birthday to me"
+      },
+      {
+         "id":6,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"That was a fantastic year of knowing myself. Cheers to a new year in my life! sweet birthday wishes to me"
+      },
+      {
+         "id":7,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"Happiest and most loving birthday to me. May I have the best birthday yet. I know I have had a positive impact on people’s lives, and I hope to inspire many more"
+      },
+      {
+         "id":8,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"If I could make a wish right now, it would be to be heard screaming across the universe just to show how happy I am. Happy birthday to me!"
+      },
+      {
+         "id":9,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"HBD to myself. It feels great to be older. Happy birthday to the person that lives in me!"
+      },
+      {
+         "id":10,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"May all the forces be with me for the next year. So far, they have been good by adding another year to my age."
+      },
+      {
+         "id":11,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"Wishing myself a productive and successful new year. As I blow the candles on my cake, may all the looming sadness and negativity be blown away."
+      },
+      {
+         "id":12,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"Happy birthday to me! There should be a national award for awesome people like me. I’d like to thank myself for being exceptional and accommodative."
+      },
+      {
+         "id":13,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"What a time to be alive. I cannot believe today marks the start of a new chapter for another 365 days on earth. Heartfelt Happy Birthday Wishes to Myself"
+      },
+      {
+         "id":14,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"This new age should be nothing short of the great times I had last year. My 24th year on earth should be for prosperity."
+      },
+      {
+         "id":15,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"Merriest birthday to one of the most humble, funny, awesome and beautiful people I know: Me!"
+      },
+      {
+         "id":16,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"One of the greatest people to ever exist was born today. As I turn one year older, I hope that everything in my life will advance to the next level."
+      },
+      {
+         "id":17,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"With my birthdays coming thick and fast, I have realized I fall in love with myself with each passing birthday. I say numbers do matter."
+      },
+      {
+         "id":18,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"I do not want to spend my entire life trying to be a great person like most people do; I am among the few who have been great since birth."
+      },
+      {
+         "id":19,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"It is beyond explanation how far I have come in life. I can’t believe I am a year wiser, more beautiful, and richer today! To God be all the glory. Happy birthday to me."
+      },
+      {
+         "id":20,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"I am happy to live up to this day. It is an occasion worth celebrating. I know I will be alive to celebrate more years. Happy birthday to me."
+      },
+      {
+         "id":21,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"It is with great growth through the hard and good times that I have become the person I am today. Happy birthday Wayne!"
+      },
+      {
+         "id":22,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"To me, it is not just a year older, but I consider it a year wiser. May I enjoy my birthday to the fullest today."
+      },
+      {
+         "id":23,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"There’s no other way to say I am grateful for life. Many are in the Great Beyond and oblivious of the passage of time. I desire to live long to put a smile on people’s faces. Happy birthday to myself."
+      },
+      {
+         "id":24,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"I will not die but live to be a wonder to many. My life is beautiful; I am a year older today. Heartfelt Happy Birthday Wishes to Myself"
+      },
+      {
+         "id":25,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"On special days like today, I am always at my best, happy, can dare any life troubles to come because I am always ready to face them head-on."
+      },
+      {
+         "id":26,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"I felt special when I woke up today and quickly realized it was my birthday! A very happy birthday to me."
+      },
+      {
+         "id":27,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"Today is special. I am a little stronger and wiser than the previous year. In this coming year, I promise myself to make the best out of it."
+      },
+      {
+         "id":28,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"It is my birthday today. This year will be my best so far!"
+      },
+      {
+         "id":29,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"Finally, the day has come. On a day like this, a princess was freely given to my parents. That princess has matured into a queen. I am proud of my life and the far I’ve come. Happy birthday, to me."
+      },
+      {
+         "id":30,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"I have checked all the goals that I set for myself on my last birthday. That is amazing. I am settling for nothing less than a special celebration to mark another year on earth."
+      },
+      {
+         "id":31,
+         "nama_cat":"Birthday Wishes My Self 1",
+         "deskripsi":"To all the talented, smart, beautiful, and wonderful people having their birthdays today, I am your leader for the next 24 hours of celebrations."
+      },
+      {
+         "id":32,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"‘Drum rolls’! Let the party begin! I can’t hold back my excitement because it is my birthday. Happy birthday, sweet me. More blessings to me."
+      },
+      {
+         "id":33,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Everything has been orchestrated to favor me in this new year. I wish myself a glorious birthday."
+      },
+      {
+         "id":34,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Last year was a bit tough, but I was tougher. I got through it, and today is the start of a promising year. I am looking forward to a fresh start with all the good things that life can throw at me."
+      },
+      {
+         "id":35,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Happy birthday to the most amazing person on the Earth! I‘ve never thought I would grow so awesome. Hope it will never end. Congratulations to me! Heartfelt Happy Birthday Wishes to Myself"
+      },
+      {
+         "id":36,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Let the music play, let us dance in awe and excitement. Oh! I can’t help but rejoice because I have added another year today. Sorrow shall not have any power over me this year. Happy birthday to my darling self."
+      },
+      {
+         "id":37,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Hello me, you are highly favored. You may not be where you want to be yet, but at least you are not stagnant. Moving forward and staying strong is my main goal. Happy birthday to me."
+      },
+      {
+         "id":38,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"I’ll put the biggest smile on my face and will show how happy I’m. It’s my birthday, hurray! I will be the greatest day of the whole year. Happy birthday to me!"
+      },
+      {
+         "id":39,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Thanks, God, for an opportunity to be a person who can change everything in the world. With every year I feel more confident and stronger. Hope this year will be amazing. Happy birthday to me."
+      },
+      {
+         "id":40,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Angels are on guard over my life. Here is to many more years of exploits in life and good health. Happy birthday to me."
+      },
+      {
+         "id":41,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Happy birthday to me. No evil is permitted to come near me all the days of my life. Today, I celebrate the fulfillment of the many promises of safety for me."
+      },
+      {
+         "id":42,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Hurray, hurray, hurray! Today is my birthday and I’m ready to have fun. Of course, all the attention will be on me. I feel selfish, a little bit. Ha, ha. The best birthday to me."
+      },
+      {
+         "id":43,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"I’m wishing myself the happiest birthday. There are not so many wonderful people in this world like me, so at least today I can feel a bit more important than others. I’m joking. Congrats for me!"
+      },
+      {
+         "id":44,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"I lead a life of excellence; no wonder I have been able to change my world within the little time I have lived. May God grant me the strength and wisdom to be more. Happy birthday to me."
+      },
+      {
+         "id":45,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"I am a candidate of grace, an heir of the kingdom of heaven. My life is blessed, and I know it. It is a new year for me; happy birthday."
+      },
+      {
+         "id":46,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Today is the happiest day of all over the year. It’s my birthday and I’m ready to surprise myself. I perfectly know what I need, so let this day be fantastic and full of good gifts. Happy birthday to me!"
+      },
+      {
+         "id":47,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Happy birthday to me! I’m the only one person I can trust the most, because I know myself perfectly and even how strong I can be. Hope this year will be interesting and full of adventures. Keep going, buddy!"
+      },
+      {
+         "id":48,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"On this special day of mine, I just want to enjoy it. There’s nothing better than time for yourself and your minds. Hope it’ll bring something special for me. Happy birthday to me!"
+      },
+      {
+         "id":49,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"All that I have hoped for, I will receive as I turn a year older today. Happy birthday to me."
+      },
+      {
+         "id":50,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"It is awesome that I don’t look like what I’ve been through. God really, has got my back. He will see me through more years. Happy birthday, dearest me."
+      },
+      {
+         "id":51,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Happy birthday to the most handsome person! Your beauty is obvious, and no one can deny it. Believe in yourself now and forever. Congratulations for me!"
+      },
+      {
+         "id":52,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Self-love isn’t selfish; it is simply loving yourself to be able to love others from your heart. I celebrate myself on my birthday today. Happy birthday, dear me."
+      },
+      {
+         "id":53,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"At last, my new season of greatness has come. I can’t wait to explore new frontiers. Happy birthday to myself."
+      },
+      {
+         "id":54,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"One thing I am sure of is this, “There is no failure for me. It is either I win, or I learn.” That is all I desire out of life. I wish myself a happy birthday."
+      },
+      {
+         "id":55,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"You are so great, buddy. Keep going and never stop doing what you really like. I trust and believe in you. You are the best. Happy birthday to me!"
+      },
+      {
+         "id":56,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Today is my birthday and I’m so happy I can live, breathe and love. It’s also a proof that the future will be great, too. Just love the life. Happy birthday to me!"
+      },
+      {
+         "id":57,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Happy birthday to me! I know I’m not alone, because I’ve got the God by my side. It really encourages me to do whatever I need, no matter what can happy. Thank you, God."
+      },
+      {
+         "id":58,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Happy birthday to the bravest and strongest fighter. All you’ve achieved is amazing and you are a perfect example how is important to believe in yourself. Congrats to me!"
+      },
+      {
+         "id":59,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Another phase in life, another stage of excellence and another opportunity for growth. I am more than grateful to be alive. Happy birthday to me."
+      },
+      {
+         "id":60,
+         "nama_cat":"Birthday Wishes My Self 2",
+         "deskripsi":"Cheers to the person I’m turning into and the open doors in life. I thank God for keeping me this long and for seeing another birthday. Come all, help me celebrate this great day."
+      },
+      {
+         "id":61,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"love the way I look to this world. I have so much good around me. Hope this day, birthday and all the next year will be perfect. I know it. Happy birthday to me!"
+      },
+      {
+         "id":62,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Birthday cake, chocolate, ice-cream strawberries and gummy-bears…mmm… Does any girl want something else? I’m not. Sweet sweet birthday to myself!"
+      },
+      {
+         "id":63,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"It’s my big day, my birthday and my party time! I’m so happy for myself. I already imagine what day will be good. Perfect birthday to me!"
+      },
+      {
+         "id":64,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"A year older, a year wiser. Happy birthday to this beautiful soul. May the Lord always provide all I need in life. This is my prayer today."
+      },
+      {
+         "id":65,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"My life has been a constant process of growth. I have gradually realized my potential, but I hope to exploit it fully this year. Happy birthday to me."
+      },
+      {
+         "id":66,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I’m beautiful, smart, always positive and happy. I’m just perfect. So perfect birthday to perfect me!"
+      },
+      {
+         "id":67,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I’m very proud of myself. I don’t need anything except more time for myself. Just give me more beauty sleep and some kind of spa. So happy birthday to me!"
+      },
+      {
+         "id":68,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"All I pray for this new phase in life is to have the utmost joy and provision for everything I need. Happy birthday to this lovely soul and thank God for life!"
+      },
+      {
+         "id":69,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Hooray! Another birthday, another celebration. I take this opportunity to wish myself the best birthday yet and abundance in blessings."
+      },
+      {
+         "id":70,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I promise to keep on loving myself more than anything else. This life is truly mine, so happy birthday to me!"
+      },
+      {
+         "id":71,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Dear self, stay calm and be ready for birthday party. I have to look amazing. Happy birthday to my calm soul!"
+      },
+      {
+         "id":72,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Happy birthday to me! I’m older now but still so good and beautiful. Age doesn’t matter for me. I love myself the most."
+      },
+      {
+         "id":73,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I don’t know about others, but my life is completely beautiful. I am glad to be a year older today. Happy me, happy birthday!"
+      },
+      {
+         "id":74,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"My dear lovely family, you have to be happy of having such an awesome kid. You are lucky ones. Happy birthday to me, to this perfect kid!"
+      },
+      {
+         "id":75,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Happy birthday to me! Here is to another year of silly decisions and unexpected situations. You have to be ready for everything!"
+      },
+      {
+         "id":76,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"am destined for something bigger. a life of fulfillment and abundant success. This is a new year to live out my destiny. Happy birthday to me."
+      },
+      {
+         "id":77,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Today it’s my birthday! I’m feeling a little bit panic but still standing on my feet. Hope, I’ll be strong enough and don’t go crazy. Be strong, dear self!"
+      },
+      {
+         "id":78,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"You are older, less attractive and less beautiful…Oh, stop talking silly things, brain! I’m super woman/man! Just happy birthday to me!"
+      },
+      {
+         "id":79,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Cheers to me and for myself. I’m older now but in my soul I’m still young. Beautiful birthday to me, to this charming young man/woman!"
+      },
+      {
+         "id":80,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"It’s my birthday today. I’m celebrating life every day, so I don’t need to hear talking about family, kids and so on… Bla, bla, bla… Happy calm birthday to me!"
+      },
+      {
+         "id":81,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Happy birthday to me. I have every reason to be happy on this day."
+      },
+      {
+         "id":82,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"It is not unusual to hear bad news in the wake of each day. I’m thankful to be numbered amongst the fortunate. Happy birthday to me."
+      },
+      {
+         "id":83,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Dear Lord, thank you for bringing me into another fabulous year where I will live out your glory. It is my birthday today; may Your goodness remain with me."
+      },
+      {
+         "id":84,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"On my birthday today, I pray that the presence of the Lord will never depart from me all the days of my life."
+      },
+      {
+         "id":85,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"It’s too late to give up, I am forging ahead in life. And no matter what life gives, I’ve got God by my side. Happy birthday to me."
+      },
+      {
+         "id":86,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Keep it up, guy! Keep shining and blazing the trails because the future of unending enjoyment will soon be here. Enjoy, it’s your birthday."
+      },
+      {
+         "id":87,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Countless joy, peace, and love are all I pray for as I turn one year older. Thank you to all who have helped me along the way. Happy birthday to me."
+      },
+      {
+         "id":88,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Turning a year older means I get to be wiser than ever before. My heart desires to be grateful always and to appreciate everyone in my life every other day. Very happy birthday to me."
+      },
+      {
+         "id":89,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"It’s not been easy but I have been coming through, day after day. I celebrate myself for the courage. Happy birthday to me."
+      },
+      {
+         "id":90,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I love how the wishes are coming but I appreciate myself more by being alive amidst all life’s challenges."
+      },
+      {
+         "id":91,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I hope that this special day will blossom into achieved goals and accomplished dreams. Happy birthday to the happy person I am."
+      },
+      {
+         "id":92,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Happy birthday to me. Thank you, mom and dad, for bringing such a wonderful gift in the world and for always showing me the way."
+      },
+      {
+         "id":93,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"No matter what comes my way before my birthday, I will always look back to praise God. Happy birthday to me."
+      },
+      {
+         "id":94,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"To the man of greatness and purpose, the man of vision and enviable dreams, I wish you a happy birthday."
+      },
+      {
+         "id":95,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I’m so excited today simply because it’s my birthday. I pray for peace, prosperity, and happiness above all things. May God bless me continually."
+      },
+      {
+         "id":96,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Today, I choose to forget all my problems and paint a smile on my face because I am blessed. A most spectacular birthday for me."
+      },
+      {
+         "id":97,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I’m taking a step at a time, getting to maturity physically, mentally and financially. Nothing is stopping me! Happy birthday to me."
+      },
+      {
+         "id":98,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I’ll use this birthday to congratulate myself for a future of enviable success."
+      },
+      {
+         "id":99,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"May I have the best birthday today. I wish myself a life filled with happiness to the brim and the life-long realization that as long as I have life, I am rich."
+      },
+      {
+         "id":100,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I can’t wait to be in the future because I see me blazing the trails. Happy birthday to me."
+      },
+      {
+         "id":101,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I am not a product of my circumstances. I am a product of my decisions. Happy birthday to me."
+      },
+      {
+         "id":102,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"Let me be the first one to wish myself a superb birthday and favor beyond imagination. I celebrate me!"
+      },
+      {
+         "id":103,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"My birthday is an inspirational time to remind me to live each day with passion. Happy birthday to me."
+      },
+      {
+         "id":104,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"May the year ahead bring me many opportunities to succeed and flourish. Happy birthday to me."
+      },
+      {
+         "id":105,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"This year shall be my best year. I count on You, Lord, to make it happen. Happy birthday to me."
+      },
+      {
+         "id":106,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"My youth is renewed day by day. God has been so kind to me; I cannot tell it all. May His grace which found me, continue to sustain me. Happy birthday to me."
+      },
+      {
+         "id":107,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I want to quit doing less-than-excellent works. Let my success shock the world. Amen. Happy birthday to me."
+      },
+      {
+         "id":108,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"It’s not what you look at that matters, it’s what you see. I see success all the way. Happy birthday to me."
+      },
+      {
+         "id":109,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"My prayer for myself on this day is that l will not regret my new year which begins this day. Happy birthday to me."
+      },
+      {
+         "id":110,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"The work of my hands is blessed. My efforts to prosper shall always prevail. The love of God shall distinguish me amongst many. Happy birthday to me."
+      },
+      {
+         "id":111,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"The faithfulness of the Lord shall never cease in my life. All the good things will be provided for. Happy birthday to me. I am deeply grateful to Him."
+      },
+      {
+         "id":112,
+         "nama_cat":"Birthday Wishes My Self 3 ",
+         "deskripsi":"I’m not old, I’m just mature. And now it’s the best time for me to enjoy my beautiful life. Happy birthday to myself!"
+      }
+   ]
+}
