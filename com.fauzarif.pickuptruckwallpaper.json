@@ -1,0 +1,73 @@
+{
+  "redirect" : {
+ 
+"json_popup_wait" : "Server Ready..",
+  
+"mode_no_ads" : true,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
+
+// Mode Iklan
+// 
+//  mode pengaturan iklan
+//  Mode ADMOB       Admob backup Unity Backup Startapp
+//  Mode FAN         FAN  backup Unity Backup Startapp
+//  Mode APPODEAL    Appodeal  backup Unity Backup Startapp
+//  Mode UNITY       Unity backup Startapp
+//  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
+//  Iklan native hanya bisa admob fan appodel
+
+"pengaturan_iklan_banner" : "ADMOB",
+"pengaturan_iklan_inter" : "UNITY",
+"pengaturan_iklan_native" : "FAN",
+
+"inter_count" : 10,
+
+"enable_strap" : true,
+"enable_strap_Splah" : false,
+
+"ads_on_exit_dialog" : false,
+
+"mode_offline_mp3" : false,
+"enable_sticky_notification" : true,
+
+"startapp" : "205927425",
+
+"admob_banner" : "ca-app-pub-4486789505928318/2552078665",
+"admob_inter" : "",
+"admob_native" : "",
+
+"hpk_alien" : "kuota data 30gb",
+"hpkadmob1" : "Kuota Data",
+"hpkadmob2" : "Bank Jenius",
+"hpkadmob3" : "Simpati",
+"hpkadmob4" : "Telkomsel",
+"hpkadmob5" : "Donasi",
+
+"fan_banner" : "YOUR_PLACEMENT_ID",
+"fan_inter" : "YOUR_PLACEMENT_ID",
+"fan_native" : "YOUR_PLACEMENT_ID",
+
+"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
+
+"unity_banner_id" : "banner",
+"unity_inters_id" : "interstitial",
+"unity_id" : 4169343,
+"unity_test" : false,
+
+"applovin_banner_id" : "YOUR_AD_UNIT_ID",
+"applovin_inters_id" : "YOUR_AD_UNIT_ID",
+
+"Button_Rating" : "Rating Now",
+"Button_Share" : "Share to Friends",
+"Button_Start" : "Start",
+
+"exit_popup_dialog" : "Please kindly provide us 5 for our appreciation. Thank You",
+"rate_button" : "Rating Now",
+"later_button" : "Later",
+"enable_Share_button" : true,
+"Share_TXT" : "Aplikasi Keren banget, aku udah nyobain, coba download juga pasti kamu juga seneng ",
+"more_button" : "Share Via WhatsApp",
+"url_more_apps" : "https://play.google.com/store/apps/details?id=com.fauzarif.pickuptruckwallpaper"
+
+  }
+}
