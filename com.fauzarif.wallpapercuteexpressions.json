@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Server Ready..",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
@@ -47,7 +47,7 @@
 "fan_inter" : "YOUR_PLACEMENT_ID",
 "fan_native" : "YOUR_PLACEMENT_ID",
 
-"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
+"appodeal_app_id" : "673b89ca933c0a7d35ef722db9f6a28e6143ebbaa4439645",
 
 "unity_banner_id" : "banner",
 "unity_inters_id" : "interstitial",
