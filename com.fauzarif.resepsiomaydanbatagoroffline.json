@@ -7,7 +7,7 @@
 "Json_popup_Wait" : "Server Ready . ",
 
 
-"MODE_NO_ADS" : true,
+"mode_no_ads" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
@@ -51,7 +51,7 @@
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
 
-"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+"APPODEAL_APP_ID" : "616235ebe8494077b86800d098f2f300dba4e136a09730ca",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
